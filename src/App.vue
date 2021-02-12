@@ -1,7 +1,14 @@
 <template>
   <div id="q-app">
     <!-- MEU PRIMEIRO COMMIT -->
-    <!-- SEGUNDO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
     <!-- MEU TERCEIRO COMMIT -->
     <router-view />
   </div>
