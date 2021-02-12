@@ -1,10 +1,11 @@
 <template>
   <div id="q-app">
+    <!-- MEU PRIMEIRO COMMIT -->
     <router-view />
   </div>
 </template>
 <script>
 export default {
-  name: 'App'
-}
+  name: "App"
+};
 </script>
