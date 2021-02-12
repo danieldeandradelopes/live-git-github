@@ -1,6 +1,7 @@
 <template>
   <div id="q-app">
     <!-- MEU PRIMEIRO COMMIT -->
+    <!-- MEU TERCEIRO COMMIT -->
     <router-view />
   </div>
 </template>
